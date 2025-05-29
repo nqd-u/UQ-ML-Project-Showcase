@@ -16,6 +16,7 @@ File: BFHR-Feasibility-Analysis.pdf
 Task: Perform sentiment classification on tweets using natural language processing (NLP) techniques.
 Techniques Used: Data cleaning, feature extraction, and machine learning classifiers.
 File: Tweets-Sentiment-Analysis.pdf
+
 Future projects may be added as part of coursework or personal learning.
 
 Note on Project Scope
