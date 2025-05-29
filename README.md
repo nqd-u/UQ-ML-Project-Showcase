@@ -10,7 +10,8 @@ Bushfire Hazard Reduction Feasibility Prediction
 Task: Predict whether a controlled burn can be safely conducted based on historical weather data.
 Techniques Used: Data preprocessing, class imbalance handling, and classification models (Decision Tree, Random Forest, ANN, SVM, etc.).
 File: BFHR-Feasibility-Analysis.pdf
-Tweet Sentiment Analysis
+
+📂Tweet Sentiment Analysis
 
 Task: Perform sentiment classification on tweets using natural language processing (NLP) techniques.
 Techniques Used: Data cleaning, feature extraction, and machine learning classifiers.
